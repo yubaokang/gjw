@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_bg_up">#DDDDDD</color>
+    <color name="tab_bg_down">#D51535</color>
+    <color name="white">#FFFFFF</color>
+    <color name="main_bg">#2CBF90</color>
+    <color name="progress_1">#51BBBA</color>
+    <color name="progress_2">#51BB9E</color>
+    <color name="progress_3">#51BB83</color>
+    <color name="progress_4">#51BB6C</color>
+    <color name="progress_5">#7BBB51</color>
+    <color name="progress_6">#A3BB51</color>
+    <color name="progress_7">#ffecc32d</color>
+    <color name="progress_8">#ECA344</color>
+    <color name="progress_9">#EC6744</color>
+    <color name="progress_10">#D94D4D</color>
+    <color name="progress_11">#C13737</color>
+
+    <!--recyclerView-->
+    <color name="backgroundColor">@color/background_material_dark</color>
+    <color name="backgroundColorPress">@color/accent_material_dark</color>
+
+
+    <!--下拉刷新layout-->
+    <color name="red">#FFC93437</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+
+
+</resources>

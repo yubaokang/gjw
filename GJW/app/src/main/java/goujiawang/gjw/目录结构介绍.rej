@@ -1,0 +1,6 @@
+diff a/GJW/app/src/main/java/goujiawang/gjw/目录结构介绍 b/GJW/app/src/main/java/goujiawang/gjw/目录结构介绍	(rejected hunks)
+@@ -1,4 +0,3 @@
+-目录结构介绍：
+ package goujiawang.gjw.utils;
+ 
+ import android.content.Context;
